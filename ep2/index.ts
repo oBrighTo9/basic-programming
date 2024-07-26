@@ -28,3 +28,5 @@ function grade(homework: number, midterm: number, final: number) {
 
 
 console.log(grade(500, 250, 250))
+
+   
